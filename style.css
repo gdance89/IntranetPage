@@ -1,0 +1,29 @@
+* {
+
+margin: 0px;
+
+padding: 0px;
+
+}
+
+
+#leftmenu {
+
+float: left;
+
+position: relative;
+
+width: 150px;
+
+margin: 50px 0px 0px 0px;
+
+}
+
+#mainbody {
+
+float: left;
+
+position: relative;
+
+
+}
